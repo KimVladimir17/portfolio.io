@@ -1,0 +1,97 @@
+{
+  "header": {
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "playground": "Playground",
+    "contact": "Contact",
+    "download": "Download CV"
+  },
+  "home": {
+    "hi": "Hello, I'm",
+    "firstName": "",
+    "lastName": "Vladimir",
+    "position": "Frontend",
+    "developer": "Developer",
+    "text": "I work mainly with <strong>React</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>, and I’m currently expanding my skills in <strong>backend</strong> development with <strong>Spring Boot</strong> and <strong>MySQL</strong>. My goal is to build clean, efficient, and visually engaging digital experiences.",
+    "btn": "View My Projects"
+  },
+  "about": {
+    "title": "About me",
+    "subTitle": "<strong>Frontend developer</strong> focused on building <strong>intuitive</strong> and <strong>efficient</strong> interfaces.",
+    "textOne": "I began learning <strong>web</strong> development out of curiosity about how digital products are built. Over time, <strong>grew</strong> passionate about <strong>frontend</strong> engineering — especially creating interactive, visually clear, and responsive <strong>designs</strong> using <strong>React</strong> and <strong>TypeScript</strong>. Recently, I’ve been expanding my understanding of <strong>backend</strong> technologies such as <strong>Spring Boot</strong> and <strong>MySQL</strong> to strengthen my <strong>full-stack</strong> foundation.",
+    "textTwo": "I value clean code, <strong>teamwork</strong>, and building projects that make a real difference."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subTitle": "Some of my recent work",
+    "items": {
+      "1": {
+        "title": "Movie",
+        "text": "An application for <strong>searching</strong> movies"
+      },
+      "2": {
+        "title": "MORAGO",
+        "text": "Application that enables users and translators to make <strong>real-time</strong> calls."
+      },
+      "3": {
+        "title": "Simple library",
+        "text": "Application <strong>without</strong> a visual design focus, emphasizing creating a  <strong>book list</strong> (title, description, author)."
+      },
+      "5": {
+        "title": "ActiveBox",
+        "text": "A <strong>Single Page</strong> website focused on <strong>UI design</strong> and <strong>responsiveness</strong>."
+      },
+      "6": {
+        "title": "Coffee",
+        "text": "A <strong>Single Page</strong> website focused on <strong>UI design</strong> and <strong>responsiveness</strong>."
+      },
+      "7": {
+        "title": "MoGo",
+        "text": "A <strong>Single Page</strong> website focused on <strong>UI design</strong> and <strong>responsiveness</strong>."
+      },
+      "8": {
+        "title": "Pizza",
+        "text": "A <strong>Single Page</strong> website focused on <strong>UI design</strong> and <strong>responsiveness</strong>."
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subTitle": "Technologies work with"
+  },
+  "playgraund": {
+    "title": "Playground",
+    "subTitle": "Technologies work with",
+
+    "chat": {
+      "greeting": "Hello 👋! I’m Vlad — a <strong>frontend</strong> & <strong>backend</strong> developer. Would you like to know more about my work?",
+      "questions": [
+        "Tell me a little about yourself",
+        "What technologies do you use in your projects?",
+        "Which project has been the most interesting for you?",
+        "How do you usually work in a team?",
+        "What are your strengths as a developer?"
+      ],
+      "answers": [
+        "I’m strong focus on building clean, responsive, and user-friendly interfaces. I enjoy working with <strong>React</strong>, <strong>TypeScript</strong>, and modern tools like <strong>Zustand</strong> and custom <strong>hooks</strong> to create <strong>flexible</strong>, <strong>reusable components</strong>. And always pay attention to structure and clarity — I like when both users and developers can easily understand the product.",
+        "Most of my projects are built with <strong>React + TypeScript</strong>, where I focus on clean component design and state management using <strong>Zustand</strong> and <strong>React Hooks</strong>. For <strong>API</strong> communication, I use <strong>Axios</strong> and structured service layers to keep the logic consistent. I also apply <strong>React-Hook-Form</strong> for flexible form control and <strong>validation</strong>. On the <strong>backend</strong> side, I’ve been exploring <strong>Spring Boot</strong> and <strong>MySQL</strong>, learning how <strong>APIs</strong> and <strong>databases</strong> connect together.",
+        "The most interesting project for me was <strong>Morago</strong> — a real-time translation and <strong>call platform</strong> for interpreters and clients. It combined everything I enjoy: user interface design, API integration, and <strong>WebRTC</strong> for <strong>live calls</strong>. I handled the <strong>frontend</strong> part — building <strong>dashboards</strong>, managing state with <strong>Zustand</strong>, and connecting to <strong>backend APIs</strong>. It was the project where learned how <strong>real-time</strong> data, authentication, and UI flow all come together in one system.",
+        "In team projects, I focus on clear communication and organized <strong>Git</strong> workflow. Usually work through <strong>feature branches, frequent commits, and pull requests</strong> to keep the codebase clean. I also like using tools like <strong>Notion</strong> or <strong>Trello</strong> to track progress and make sure everyone is on the same page. I believe consistency and respect for others’ code is the key to good teamwork.",
+        "I’d say my <strong>strengths</strong> are attention to <strong>detail</strong>, <strong>structured</strong> thinking, and <strong>adaptability</strong>. <br/> - Always try to make my code <strong>clear</strong>, <strong>reusable</strong>, and <strong>easy to maintain</.strong>. <br/> - Quickly adapt to <strong>new technologies</strong> and enjoy learning by doing — for me, <strong>every</strong> project is a chance to <strong>improve</strong>.<br/> - Also focus on <strong>UI/UX</strong> — making interfaces that feel natural for users."
+      ]
+    }
+  },
+
+  "contact": {
+    "title": "Get in touch",
+    "subTitle": "Let’s work together on your next project",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "btn": "Send Message",
+    "phone": "Phone",
+    "success": "Message sent successfully!"
+  }
+}

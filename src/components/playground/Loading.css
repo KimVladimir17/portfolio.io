@@ -1,0 +1,21 @@
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loading img {
+    width: 85px;
+    animation: pokeBall 1s infinite linear;
+    z-index: 5;
+}
+
+@keyframes pokeBall {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
