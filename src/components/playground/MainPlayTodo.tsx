@@ -15,7 +15,6 @@ export default function MainPlayToDo() {
     { id: 2, text: "Serch Pokemon ⚡️", completed: false },
   ]);
   const [input, setInput] = useState("");
-  console.log(todos);
 
   useEffect(() => {
     const saved = localStorage.getItem("todos");
