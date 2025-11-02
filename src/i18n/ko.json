@@ -13,8 +13,7 @@
     "lastName": "미르",
     "position": "프론트엔드 ",
     "developer": "개발자입니다",
-    "text": "주로 <strong>React</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>를 사용하며, 현재는 <strong>Spring Boot</strong>와 <strong>MySQL</strong>로 <strong>백엔드</strong> 개발 능력을 확장하고 있습니다. 깔끔하고 효율적이며 시각적으로 완성도 높은 서비스를 만드는 것이 목표입니다.",
-    "btn": "View My Projects"
+    "text": "주로 <strong>React</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>를 사용하며, 현재는 <strong>Spring Boot</strong>와 <strong>MySQL</strong>로 <strong>백엔드</strong> 개발 능력을 확장하고 있습니다. 깔끔하고 효율적이며 시각적으로 완성도 높은 서비스를 만드는 것이 목표입니다."
   },
   "about": {
     "title": "소개",

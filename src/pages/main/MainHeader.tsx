@@ -1,6 +1,4 @@
 import { IoCodeSlashSharp } from "react-icons/io5";
-
-import { FaArrowRightLong } from "react-icons/fa6";
 import { useTranslation, Trans } from "react-i18next";
 
 export default function MainHeader() {
@@ -30,10 +28,6 @@ export default function MainHeader() {
                 }}
               />
             </p>
-            <div className="main-header__buttons buttons rounded-lg flex items-center">
-              <button className="main-header__button "> {t("home.btn")}</button>
-              <FaArrowRightLong className="main-header__button-icon" />
-            </div>
           </div>
         </div>
         <div className="main-header__block ">

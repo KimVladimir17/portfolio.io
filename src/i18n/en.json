@@ -13,8 +13,7 @@
     "lastName": "Vladimir",
     "position": "Frontend",
     "developer": "Developer",
-    "text": "I work mainly with <strong>React</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>, and I’m currently expanding my skills in <strong>backend</strong> development with <strong>Spring Boot</strong> and <strong>MySQL</strong>. My goal is to build clean, efficient, and visually engaging digital experiences.",
-    "btn": "View My Projects"
+    "text": "I work mainly with <strong>React</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>, and I’m currently expanding my skills in <strong>backend</strong> development with <strong>Spring Boot</strong> and <strong>MySQL</strong>. My goal is to build clean, efficient, and visually engaging digital experiences."
   },
   "about": {
     "title": "About me",

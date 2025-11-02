@@ -24,7 +24,7 @@ export default function ProjectDemoModal({
           <div className="relative w-full h-full max-w-5xl max-h-[80vh] ">
             <button
               onClick={onClose}
-              className="absolute top-4 right-4 text-white text-2xl hover:text-red-400 transition"
+              className="absolute top-4 right-4 text-white text-2xl hover:text-red-400 transition z-50"
             >
               <FaTimes />
             </button>
