@@ -40,11 +40,6 @@ export default function ProjectDemoModal({
               transition={{ duration: 0.3 }}
             />
           </div>
-          <div
-            className="absolute inset-0"
-            onClick={onClose}
-            style={{ cursor: "pointer" }}
-          ></div>
         </motion.div>
       )}
     </AnimatePresence>

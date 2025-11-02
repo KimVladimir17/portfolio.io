@@ -36,9 +36,9 @@ export default function LanguageSwitcher() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.3 }}
-            className="absolute left-3 text-lg top-0"
+            className="absolute left-3 text-sm top-1.5"
           >
-            🇺🇸
+            US
           </motion.span>
         ) : (
           <motion.span
@@ -47,9 +47,9 @@ export default function LanguageSwitcher() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.3 }}
-            className="absolute right-3 text-lg top-0"
+            className="absolute right-3 text-sm top-1.5"
           >
-            🇰🇷
+            KR
           </motion.span>
         )}
       </AnimatePresence>
