@@ -165,21 +165,6 @@ export default function MainContact() {
                 </a>
               </div>
             </div>
-
-            <div className="flex items-center gap-4">
-              <div className="bg-green-100 p-3 rounded-full">
-                <FaPhoneAlt className="text-green-600 text-xl" />
-              </div>
-              <div>
-                <p className="font-semibold">{t("contact.phone")}</p>
-                <a
-                  href="tel:+821074956522"
-                  className="text-gray-500 hover:text-green-600"
-                >
-                  +82 10-7495-6522
-                </a>
-              </div>
-            </div>
             <div className="flex items-center gap-4">
               <div className="bg-gray-100 p-3 rounded-full">
                 <FaGithub className="text-gray-700 text-xl" />
