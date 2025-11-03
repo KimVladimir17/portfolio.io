@@ -1,7 +1,6 @@
 import { useRef, useState } from "react";
 import {
   FaEnvelope,
-  FaPhoneAlt,
   FaGithub,
   FaCheckCircle,
 } from "react-icons/fa";
