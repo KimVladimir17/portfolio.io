@@ -5,7 +5,6 @@
     "skills": "Skills",
     "playground": "Playground",
     "contact": "Contact",
-    "download": "Download CV"
   },
   "home": {
     "hi": "Hello, I'm",
@@ -90,7 +89,6 @@
     "subject": "Subject",
     "message": "Message",
     "btn": "Send Message",
-    "phone": "Phone",
     "success": "Message sent successfully!"
   }
 }
