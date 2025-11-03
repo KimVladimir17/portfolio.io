@@ -3,7 +3,6 @@ import { FaGithub } from "react-icons/fa";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { useTranslation } from "react-i18next";
 
-const CV_LINK = import.meta.env.VITE_CV_LINK;
 const GITHUB_MAIN_URL1 = import.meta.env.VITE_GITHUB_MAIN_URL1;
 
 export default function MainHeaderNav() {
@@ -45,9 +44,6 @@ export default function MainHeaderNav() {
           className="header-nav__btn-icon header-nav__none "
         >
           <FaGithub className="icon hover" />
-        </a>
-        <a href={CV_LINK} className="header-nav__btn  rounded-lg buttons ">
-          {t("header.download")}
         </a>
         <LanguageSwitcher />
       </div>
