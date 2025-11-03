@@ -4,8 +4,7 @@
     "projects": "프로젝트",
     "skills": "기술 및 역량",
     "playground": "플레이그라운드",
-    "contact": "연락하기",
-    "download": "이력서 다운로드"
+    "contact": "연락하기"
   },
   "home": {
     "hi": "안녕하세요, 저는",
@@ -89,7 +88,6 @@
     "subject": "제목",
     "message": "메시지",
     "btn": "연락하기",
-    "phone": "전화",
     "success": "메시지 전송 완료!"
   }
 }
